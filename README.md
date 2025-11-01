@@ -40,7 +40,7 @@ uma série de retratos hiper-realistas de pessoas que **não existem**, contrast
 
 | Retrato A | Retrato B | Retrato C | Retrato D |
 |-----------|-----------|-----------|-----------|
-| ![RetratoA](exemplos/retrato_natural_1.jpg) | ![RetratoB](exemplos/retrato_fake_1.jpg) | ![RetratoC](exemplos/retrato_natural_2.jpg) | ![RetratoD](exemplos/retrato_fake_2.jpg) |
+| ![RetratoA](exemplos/retrato_natural_1.jpg) | ![RetratoB](exemplos/retrato_fake_2.jpg) | ![RetratoC](exemplos/retrato_fake_1.jpg) | ![RetratoD](exemplos/retrato_natural_2.jpg) |
 | Lara, fotógrafa de ruínas urbanas. | Theo, engenheiro que nunca existiu. | Sofia, designer de interiores. | Malik, músico inventado. |
 
 💡 **Vote mentalmente:**  
