@@ -1,51 +1,67 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# 🤖 HUMANO₂ – Retratos Sintéticos da Era Digital
 
-## 🚀 Introdução
+> “Nem natural, nem fake — apenas humano demais.”
 
-> Woooow! Look at this 👀
+Projeto desenvolvido para o desafio **[Natural ou Fake Natty? Como vencer na era das IAs generativas](https://www.dio.me/)** da DIO.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+---
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+## 🧠 Conceito
 
-### Objetivos
+HUMANO₂ explora a fronteira entre o **real e o artificial**:  
+uma série de retratos hiper-realistas de pessoas que **não existem**, contrastados com retratos reais, para desafiar a percepção do público.
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+---
 
-### Template
+## 🎯 Objetivos
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+- Criar retratos realistas e convincentes com IA.  
+- Provocar reflexão sobre identidade, autenticidade e emoção digital.  
+- Demonstrar domínio técnico e sensibilidade artística no uso de IAs generativas.
 
-## 📒 Descrição
-Breve descrição do seu projeto
+---
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+## 🧰 Ferramentas Sugeridas
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+| Tipo | Ferramenta | Função |
+|------|------------|--------|
+| 🧠 IA de imagem | DALL·E / MidJourney / Leonardo.ai | Criação dos retratos sintéticos |
+| ✍️ IA de texto | ChatGPT | Criação das biografias e legendas |
+| 🖼️ Edição | Photoshop / Canva / GIMP | Ajustes visuais e montagem de pares |
+| 📸 Banco de imagens | Unsplash / Pexels | Retratos reais livres de direitos |
+| 📂 Documentação | GitHub + Markdown | Estrutura e exibição do projeto |
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+---
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## 🖼️ Galeria: Natural ou Fake Natty?
 
-### Exemplos e Insigths
+> Tente adivinhar 👇  
+> (respostas no final)
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+| Retrato A | Retrato B | Retrato C | Retrato D |
+|-----------|-----------|-----------|-----------|
+| ![RetratoA](https://via.placeholder.com/300x400.png?text=Natural+1) | ![RetratoB](https://via.placeholder.com/300x400.png?text=Fake+1) | ![RetratoC](https://via.placeholder.com/300x400.png?text=Natural+2) | ![RetratoD](https://via.placeholder.com/300x400.png?text=Fake+2) |
+| Lara, fotógrafa de ruínas urbanas. | Theo, engenheiro que nunca existiu. | Sofia, designer de interiores. | Malik, músico inventado. |
 
-## Links Interessantes
+💡 **Vote mentalmente:**  
+🟢 = Natural  🔴 = Fake Natty  
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+<details>
+<summary><b>Respostas</b></summary>
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+- Retrato A: 🟢 Natural  
+- Retrato B: 🔴 Fake Natty  
+- Retrato C: 🟢 Natural  
+- Retrato D: 🔴 Fake Natty  
+
+</details>
+
+---
+
+## 🧪 Prompts Usados (Exemplo)
+
+**Retratos Sintéticos (IA)**
+
+```text
+1. Ultra realistic portrait of a middle-aged woman, subtle smile, cinematic lighting, 85mm lens, shallow depth of field, photorealistic
+2. Ultra realistic portrait of a young man, short hair, friendly expression, soft natural lighting, cinematic style
